@@ -27,7 +27,14 @@ If a member from a different group attempts to perform a GET operation, it must 
 To install simply run:
 
 mvn clean install
+
 mvn exec:run
 
 In the future this project is planned to be dockerized. 
 This is to be able to have multiple nodes running locally at once
+
+# Contribute
+
+If you want to contribute we use git-flow
+
+https://medium.com/@thibault60000/git-flow-for-beginners-d7a152b2c1f9
