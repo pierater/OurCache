@@ -28,7 +28,7 @@ To install simply run:
 
 mvn clean install
 
-mvn exec:run
+mvn exec:java -Dexec.mainClass="boot.Boot"
 
 In the future this project is planned to be dockerized. 
 This is to be able to have multiple nodes running locally at once
